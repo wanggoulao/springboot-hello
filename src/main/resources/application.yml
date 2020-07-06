@@ -1,0 +1,8 @@
+#server:
+  #port: 8080
+spring:
+  http:
+    encoding:
+      charset: utf-8
+#user: {lastName: zhangsan,age: 18}
+user: {uname: xiaoming,age: 16}
